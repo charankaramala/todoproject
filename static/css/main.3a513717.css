@@ -1,0 +1,2 @@
+body{display:flex;justify-content:center}.container{background-color:#000;border:1px solid #000;height:500%;padding:10px;width:800px}@media screen and (max-width:600px){.container{background-color:#000;border:1px solid #000;height:500%;padding:10px;width:350px}body{display:flex;justify-content:center}}.list-group-item{display:flex;justify-content:space-between}button:disabled{opacity:0}#task{border-bottom-left-radius:30px;border-top-left-radius:30px}
+/*# sourceMappingURL=main.3a513717.css.map*/
